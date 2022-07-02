@@ -1,6 +1,6 @@
-## Multi-scale and Multi-granularity Feature Learning for Cross-domain Fashion Retrieval (MMFL-Net)
+## Multi-granularity cross-domain fashion retrieval 
 
-This repository provides the generated dataset from our paper "Multi-scale and Multi-granularity Feature Learning for Cross-domain Fashion Retrieval." 
+This repository provides the generated dataset from our paper "Multi-granularity Cross-domain Fashion Retrieval".
 
 #### Datasets
 
