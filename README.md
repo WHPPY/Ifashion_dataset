@@ -16,5 +16,5 @@ Street2Shop is the first large-scale fashion dataset with eleven different categ
 
 #### **Download Data**
 
-To train a cross-domain fashion retrieval model, index files (training and retrieval validation files) and image data are required. All data included in this study can be found on [Google Cloud Drive](https://drive.google.com/drive/folders/1r4xl9PyJ-U4p3qa45MAJuhSe-mFHX9Cl). The data download link can also be downloaded: https://drive.google.com/drive/folders/1r4xl9PyJ-U4p3qa45MAJuhSe-mFHX9Cl.
+To train a cross-domain fashion retrieval model, index files (training and retrieval validation files) and image data are required. All data included in this study can be found on [Google Drive](https://drive.google.com/drive/folders/1r4xl9PyJ-U4p3qa45MAJuhSe-mFHX9Cl). The data download link can also be downloaded: https://drive.google.com/drive/folders/1r4xl9PyJ-U4p3qa45MAJuhSe-mFHX9Cl.
 
